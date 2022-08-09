@@ -8,5 +8,5 @@ def main_fun(a, b):
     # add 5 to the result
     return add + 5
 
-result = main_fun(4, 5)
+result = main_fun(3, 5)
 print(result)
